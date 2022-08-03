@@ -1,4 +1,4 @@
-package setting;
+package basic;
 
 public class HelloJava {
 

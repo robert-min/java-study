@@ -1,0 +1,7 @@
+# 상수 : 변하지 않는 값 -> final
+* final double PI = 3.24;
+
+# literal : 프로그램에서 사용하는 모든 숫자, 값, 논리 값
+* 10, 3.14, 'A', true
+
+# type conversion : 형변환
